@@ -1,0 +1,578 @@
+Chinese	English	Cluster
+一/m	yi "one"	
+一下/mq	yixia "one time"	Adverbials expressing degrees
+一个/r	yige "one"	
+一些/m	yixie "some"	
+一定/d	yiding "for sure"	Adverbials expressing (un)certainty/evidentiality
+一开始/v	yikaishi "at the beginning"	
+一点/mq	yidian "a bit"	Adverbials expressing degrees
+一直/d	yizhi "always"	
+一种/r	yizhong "one type"	
+万/m	wan "10 thousand"	
+万/nh	wan "10 thousand"	
+万元/nh	wanyuan "ten thousand yuan"	
+三/m	san "three"	
+三十/m	sanshi "thirty"	
+上帝/n	shangdi "God"	
+下文/n	xiawen "following context"	
+不/d	bu "no"	
+不乏/v	bufa "no lack of"	
+不仅/c	bujin "not only"	
+不会/vu	buhui "would not"	Modal verbs
+不同/a	butong "different"	
+不够/v	bugou "not enough"	Adverbials expressing degrees
+不好/a	buhao "not good"	
+不小/a	buxiao "not big"	Adverbials expressing degrees
+不少/a	bushao "not little"	
+不愿/vu	buyuan "not willing to"	Modal verbs
+不敢/vu	bugan "dare not"	Cognition verbs
+不是/vl	bushi "is not"	
+不然/c	buran "otherwise"	
+不能/vu	buneng "cannot"	Modal verbs
+不要/vu	buyao "do not want"	Modal verbs
+与/c	yu "and"	
+专/a	zhuan "special"	
+专门/a	zhuanmen "specially"	
+世/nt	shi "world"	
+世事/n	shishi "things in world"	
+世纪/nt	shiji "century"	
+东海/ns	donghai "east sea"	
+东西/n	dongxi "things"	
+东西方/nl	dongxifang "east and west"	
+丝毫/n	sihao "a bit"	
+严谨/a	yanjin "serious"	
+严重/a	yanzhong "serious"	
+个/q	ge "singe"	
+个人/r	geren "personal"	
+中/nd	zhong "middle"	
+中国/ns	zhongguo "China"	
+为/p	wei "for"	
+为什么/d	weishenme "why"	
+为此/c	weici "for this"	
+举/v	ju "raise"	
+举足轻重/i	juzuqingzhong "crucial"	Expressions of importance
+之/u	zhi "of"	
+九/m	jiu "nine"	
+也/d	ye "also"	
+也是/vl	yeshi "also is"	
+了/u	le (perfective aspect marker)	
+了解/v	liaojie "understand"	Cognition verbs
+事情/n	shiqing "thing"	
+二/m	er "second"	
+五/m	wu "five"	
+亦/d	yi "also"	
+人/n	ren "people"	
+人家/r	renjia "others"	
+人次/q	renci "person time"	
+亿/m	yi "100 million"	
+什么/r	shenme "what"	
+仁义/n	renyi "righteousness"	
+仅/d	jin "merely"	
+今/nt	jin "now"	
+今天/nt	jintian "today"	
+仍/d	reng "still"	
+从/p	cong "from"	
+从而/c	conger "thereby"	
+他/r	ta "he/him"	Pronouns
+他们/r	tamen "they"	Pronouns
+以/p	yi "upon"	
+以上/nd	yishang "above"	
+以后/nt	yihou "since then"	
+以至/c	yizhi "up to"	
+价值/n	jiazhi "value"	
+价值量/n	jiazhiliang "magnitude of value"	
+任何/r	renhe "any"	
+企业/n	qiye "company"	
+优雅/a	youya "elegant"	
+会/vu	hui "would"	Modal verbs
+似乎/d	sihu "look like"	Verbs expressing (un)certainty/evidentiality
+但/c	dan "but"	
+但是/c	danshi "but"	
+住/v	zhu "live"	
+何种/r	hezhong "which kind"	
+何等/d	hedeng "how much"(exclamatory mood)	Adverbials expressing degrees with exclamatory mood
+作用/n	zuoyong "function"	
+作者/n	zuozhe "author"	Expressions indicating the author
+你/r	ni "you" (singular)	Pronouns
+你们/r	nimen "you"(plural)	Pronouns
+使用价值/n	shiyongjiazhi "use value"	
+例/n	li "example"	
+侦察机/n	zhenchaji "air scout"	
+便/a	bian "convenient"	
+促进/v	cujin "promote"	
+俄/x	e "instantly"	
+值/v	zhi "worth"	
+偏离/v	pianli "deviate"	
+做/v	zuo "make"	
+元/q	yuan "unit"	
+兄/n	xiong "brother"	
+先/d	xian "first"	
+先令/n	xianling "shilling"	
+先后/d	xianhou "one after another"	
+光源/n	guangyuan "light source"	
+克/v	ke "gram"	
+党中央/n	dangzhongyang "party central"	
+党内/nl	dangnei "party"	
+党委/n	dangwei "party committee"	
+公斤/q	gongjin "kilo"	
+六/m	liu "six"	
+六十/m	liushi "sixty"	
+共/d	gong "total"	
+关系/n	guanxi "relation"	
+兵器/n	bingqi "weapon"	
+其/r	qi "that"	
+其中/nd	qizhong "among them"	
+内心/n	neixin "at heart"	Others
+册/q	ce "volume"	
+再/d	zai "again"	
+决定/v	jueding "decide"	Cognition verbs
+出/vd	chu "go/come out"	
+出土/v	chutu "unearthed"	
+出来/vd	chulai "come out"	
+出版/v	chuban "publish"	
+分量/n	feichang "very much"	
+划算/v	huasuan "worth doing"	
+列为/v	liewei "be listed as"	Communication verbs
+列举/v	liju "list"	Communication verbs
+则/c	ze "but"	
+创下/v	chuangxia "innovate"	
+利益/n	liyi "interest"	
+到/v	dao "reach"	
+到头来/d	daotoulai "in the end"	
+制度/n	zhidu "system"	
+制约/v	zhiyue "restrict"	
+前/nd	qian "forward"	
+前世/nt	qianshi "previous life"	
+剩余价值/n	shengyu jiazhi "surplus value"	
+副/q	fu "set"	
+功力/n	gongli "power"	
+功夫/n	gongfu "effort"	
+加上/v	jiashang "add"	
+加以/v	jiayi "inflict on"	
+助词/n	zhuci "auxiliary"	
+助长/v	zhuzhang "encourage"	
+劳动/v	laodong "work"	
+劳动力/n	laodongli "labor force"	
+十/m	shi "ten"	
+十分/d	shifen "very much"	Adverbials expressing degrees
+半/m	ban "half"	
+半天/nt	bantian "half a day"	
+占/v	zhan "occupy"	
+占有/v	zhanyou "occupy"	
+印/v	yin "print"	
+即/d	ji "i.e."	
+即是/vl	jishi "namely"	
+却/d	que "but"	
+卷/v	juan "roll"	
+原来/d	yuanlai "originally"	
+去/v	qu "go"	
+县/n	xian "county"	
+参/v	can "participate"	
+又/d	you "further"	
+又称/v	youcheng "and state"	Communication verbs
+发展/v	fazhan "develop"	
+发明/v	faming "invent"	
+受体/n	shouti "subject"	
+变异/n	bianyi "variation"	
+古代/nt	gudai "ancient time"	
+句/n	ju "sentence"	
+只/d	zhi "only"	
+只好/d	zhihao "have to"	
+只是/d	zhishi "only"	
+只能/vu	zhineng "can only"	Modal verbs
+只见/v	zhijian "only see"	
+叫/v	jiao "call"	Communication verbs
+叫作/v	jiaozuo "be called"	Communication verbs
+叫做/v	jiaozuo "be called"	Communication verbs
+可以/vu	keyi "can"	Modal verbs
+可以说/v	keyishuo "may say"	Communication verbs
+可口可乐/n	kekoukele "cola"	
+可是/d	keshi "but"	
+可能/vu	keneng "may"	Modal verbs
+可见/a	kejian "so"	Double marking
+台湾/ns	Taiwan	
+史/n	shi "history"	
+同期/nt	tongqi "of the same time"	
+名字/n	mingcheng "name"	
+后/nd	hou "after"	
+吗/u	ma "particle"	
+吧/u	ba "particle"	
+听/v	ting "listen"	Communication verbs
+吸引力/n	xiyinli "attraction"	
+告诉/v	gaosu "tell"	Communication verbs
+呢/u	ne "particle"	
+周恩来/nh	Zhou Enlai (Name)	
+哩/u	li "particle"	
+唱歌/v	changge "sing"	
+商品/n	shangpin "goods"	
+喜欢/v	xihuan "like"	
+四/m	si "four"	
+因/c	yin "because"	Double marking
+因为/c	yinwei "because"	Double marking
+因素/n	yinsu "reason"	
+团长/n	tuanzhang "commander"	
+困难/n	kunnan "difficulty"	
+国债/n	guozhai "national debt"	
+国有/v	guoyou "nationalize"	
+图/n	tu "picture"	
+图书馆/n	tushuguan "library"	
+图片/n	tupian "picture"	
+地/u	di "ly"	
+地位/n	diwei "status"	
+地步/n	dibu "extent"	
+墓/n	mu "tomb"	
+墓葬/v	muzang "tomb"	
+增长/v	zengzhang "increase"	
+处/v	chu "deal"	
+复杂/a	fuza "complex"	
+多/a	duo "many"	
+多么/d	duome "so much"(exclamatory mood)	Adverbials expressing degrees with exclamatory mood
+大/a	da "big"	
+大家/n	dajia "everyone"	
+大盘/n	dapan "grail"	
+天/nt	tian "day"	
+天下/nl	tianxia "world"	
+天性/n	tianxing "instinct"	
+太/d	tai "too"	Adverbials expressing degrees
+太多/a	taiduo "too many"	Adverbials expressing degrees
+女子/n	nvzi "lady"	
+她/r	ta "she/her"	Pronouns
+她们/r	tamen "they"(female)	Pronouns
+如/v	ru "if"	
+如今/nt	rujin "now"	
+如此/r	ruci "like this"	
+威力/n	weili "power"	
+娃娃/n	wawa "baby"	
+字/n	zi "character"	
+学问/n	xuewen "learning"	
+它/r	ta "it"	Pronouns
+它们/r	tamen "they" (neutral)	Pronouns
+实力/n	shili "strength"	
+实现/v	shixian "realize"	
+审美/v	shenmei "taste"	
+客体/n	keti "object"	
+容易/a	rongyi "easy"	
+宿/v	su "accommodate"	
+密切/a	miqie "close"	
+对/a	dui "correct"	
+对面/nd	duimian "opposite"	
+封/v	feng "seal"	
+将/d	jiang "be about to"	
+小康/a	xiaokang "well-being"	
+小时/nt	xiaoshi "childhood"	
+尚/d	shang "even"	
+尚且/c	shangqie "even"	
+就/d	jiu "just"	
+就是/r	jiushi "namely"	
+居然/d	juran "unexpectedly"	Expressions related to expectations and surprisal
+届/q	jie "session"	
+岩/n	yan "rock"	
+巡逻/v	xunluo "patrol"	
+工业/n	gongye "industry"	
+工人/n	gongren "worker"	
+工程/n	gongcheng "engineer"	
+巧/a	qiao "skillful"	
+巨大/a	juda "huge"	
+差距/n	chaju "distance"	
+已/d	yi "already"	
+已经/d	yijing "already"	
+市场/n	shichang "market"	
+希望/v	xiwang "hope"	Cognition verbs
+年/nt	nian "year"	
+并/c	bing "and"	
+并不是/v	bingbushi "not really is"	
+并非/d	bingfei "not"	
+广/a	guang "wide"	
+庄/n	zhuang "village"	
+庐山/ns	Lu Shan (name of mountain)	
+应/vu	ying "should"	Modal verbs
+应该/vu	yinggai "should"	Modal verbs
+度/n	du "extent"	
+座/q	zuo "seat"	
+建议/v	jianyi "suggest"	Cognition verbs
+开始/v	kaishi "begin"	
+引用/v	yinyong "quote"	
+弟/n	di "brother"	
+当/p	dang "at"	
+当年/nt	dangnian "that year"	
+当时/nt	dangshi "that time"	
+当然/d	dangran "of course"	Adverbials expressing (un)certainty/evidentiality
+录/v	lu "record"	
+形容/v	xingrong "describe"	
+影响/v	yingxiang "influence"	
+往往/d	wangwang "often"	
+很/d	hen "very"	Adverbials expressing degrees
+很多/a	henduo "many"	Adverbials expressing degrees
+得/u	de (particle)	
+德/n	de "moral"	
+心/n	xin "heart"	
+心中/nl	xinzhong "in heart"	Others
+心思/n	xinsi "thought"	
+心灵/n	xinling "heart"	
+心目中/nl	xinmuzhong "in mind"	Others
+必须/d	bixu "must"	Modal verbs
+怎么/r	zenmen "how"	
+怕/v	pa "be afraid of"	Cognition verbs
+思想/n	sixiang "idea"	
+性/n	xing "gender"	
+总数/n	zongshu "total number"	
+总额/n	zong'e "total amount"	
+恶劣/a	elie "terrible"	
+情调/n	qingdiao "mood"	
+想/v	xiang "think"	Cognition verbs
+感到/v	gandao "sense"	Cognition verbs
+愿/vu	yuan "wish"	Cognition verbs
+愿意/vu	yuanyi "would like"	Cognition verbs
+我/r	wo "I/me"	Pronouns
+我们/r	women "we/us"	Pronouns
+我军/n	wojun "our army"	
+我国/n	woguo "our country"	
+戒指/n	jiezhi "ring"	
+或者/d	huozhe "or"	
+户/n	hu "household"	
+所/u	suo "that which"	
+所以/c	suoyi "so"	Double marking
+所谓/a	suowei "so called"	
+才/d	cai "only"	
+找/v	zhao "find"	
+把/p	ba (disposal construction)	Subjective disposal construction
+把握/v	bawo "control"	
+担心/v	danxin "worry"	Cognition verbs
+接触/v	jiechu "contact"	
+提出/v	tichu "propose"	Communication verbs
+提高/v	tigao "improve"	
+收集/v	shouji "collect"	
+改造/v	gaizao "reform"	
+数/n	shu "number"	
+数目/n	shumu "number"	
+文化/n	wenhua "culture"	
+斋/n	zhai "study room" (formal)	
+斯大林/nh	Stalin (Name)	
+方言/n	fangyang "dialect"	
+方面/n	fangmian "aspect"	
+无/v	wu "no"	
+无法/d	wufa "have no mean"	
+既然/c	jiran "since"	Double marking
+日记/n	riji "diary"	
+早在/v	zaozai "early as"	
+早已/d	zaoyi "very early already"	
+时/nt	shi "time"	
+时候/n	shihou "time"	
+时间/n	shijian "time"	
+易事/n	yishi "easy thing"	
+春秋/n	chunqiu "spring and autumn"	
+是/vl	shi "is"	
+是不是/v	shibushi "yes-or-no"	
+显得/v	xiande "seem"	Verbs expressing (un)certainty/evidentiality
+显赫/a	xianhe "eminent"	
+普及/v	puji "popularize"	
+曲线/n	quxian "curve"	
+更/d	geng "more"	
+曾/d	ceng "once"	
+最后/n	zuihou "at last"	
+最好/a	zuihao "best"	
+月/nt	yue "month"	
+未/d	wei "not yet"	
+本/n	ben "origin"	
+机械/n	jixie "machinery"	
+条/n	tiao "strip"	
+来/vd	lai "come"	
+极/d	ji "extremely"	Adverbials expressing degrees
+枝/n	zhi "branch"	
+架/n	jia "shelf"	
+标点/n	biaodian "punctuation"	
+棉纱/n	mian "cotton"	
+榜/n	bang "list of names"	
+正/a	zheng "straight"	
+正义/n	zhengyi "justice"	
+正在/d	zhengzai "in the process of"	
+正是/vl	zhengshi "right is"	
+此/r	ci "this"	
+此书/n	cishu "this book"	Expressions indicating the author
+每个/r	meige "everyone"	
+比赛/v	bisai "race"	
+比较/v	bijiao "compare"	
+氏/n	shi "family name"	
+氛围/n	fenwei "atmosphere"	
+水平/n	shuiping "level"	
+汉语/n	hanyu "Chinese"	
+江西/ns	Jiangxi (name)	
+没想到/v	meixiangdao "never thought"	Expressions related to expectations and surprisal
+没有/v	meiyou "have not"	
+法儿/n	fa'er "way"	
+法典/n	fadian "law"	
+测/v	ce "measure"	
+消费/v	xiaofei "consume"	
+深/a	shen "deep"	
+深厚/a	shenhou "solid"	
+深远/a	shenyuan "profound"	
+游/v	you "swim"	
+源/n	yuan "source"	
+滑坡/v	huapo "landslide"	
+演习/v	yanxi "rehearsal"	
+潜力/n	qianli "potential"	
+然/c	ran "but"	
+版/n	ban "edition"	
+物种/n	wuzhong "species"	
+牵/v	qian "drag"	
+特别/d	tebie "especially"	Adverbials expressing degrees
+狡猾/a	jiaohua "cunning"	
+独占/v	duzhan "privately occupy"	
+现在/nt	xianzai "now"	
+甚/d	shen "very"	Adverbials expressing degrees
+生产/v	shengchan "produce"	
+生产资料/n	shengchanziliao "production means"	
+生活资料/n	shenghuoziliao "means of living"	
+生物/n	shengwu "creature"	
+用力/v	yongli "push"	
+用心/a	yongxin "use brain"	
+由于/c	youyu "since"	Double marking
+畏/v	wei "fear"	
+留/v	liu "keep"	
+百/m	bai "a hundred"	
+百分点/n	baifendian "percent"	
+的/u	de "of"	
+的确/d	dique "really"	
+的话/u	dehua "words/if"	
+相信/v	xiangxin "believe"	Cognition verbs
+相合/v	xianghe "match"	
+相当/d	xiangdang "considerably"	Adverbials expressing degrees with exclamatory mood
+看/v	kan "look"	Communication verbs
+看到/v	kandao "see"	Communication verbs
+真/a	zhen "true"	
+真挚/a	zhenzhi "sincere"	
+真正/a	zhenzheng "real"	
+着/u	zhe "imperfective aspect marker"	
+矣/u	yi (particle)	
+知/v	zhi "know" (literal)	Others
+知道/v	zhidao "know"	Cognition verbs
+确实/d	queshi "indeed"	
+确是/vl	queshi "indeed"	
+社会/n	shehui "society"	
+社会主义/n	shehuizhuyi "socialism"	
+祖/x	zu "ancester" 	
+离开/v	likai "leave"	
+私/n	si "private"	
+称/v	cheng "state"	Communication verbs
+称为/v	chengwei "be stated as"	Communication verbs
+称之为/v	chengzhiwei "state it as"	Communication verbs
+程度/n	chengdu "degree"	
+稿/x	gao "article"	
+竟/d	jing "suprisingly"(short)	Expressions related to expectations and surprisal
+竟然/d	jingran "suprisingly"(long)	Expressions related to expectations and surprisal
+端/n	duan "end"	
+笔下/n	bixia "under one's description"	
+第/h	di "No."	
+等/v	deng "etc."	
+等等/u	dengdeng "etc"	
+篇/q	pian "chapter"	
+约/v	yue "date"	
+级/n	ji "grade"	
+经常/a	jingchang "often"	
+经济/n	jingji "economy"	
+经济效益/n	jingjixiaoyi "economic benefits"	
+给/p	gei "give"	
+绝对/a	juedui "absolute"	
+绝非/vl	juefei "by no means"	
+编者/n	bianzhe "editor"	Expressions indicating the author
+缘/n	yuan "fate"	
+美/a	mei "beautiful"	
+老/a	lao "old"	
+耶和华/nh	Yehehua "Jehovah"	
+股/n	gu "stream"	
+股份制/n	gufenzhi "stock system"	
+胡适/nh	Hushi (name)	
+胸膛/n	xiongtang "chest"	
+能/vu	neng "can"	Modal verbs
+能够/vu	nenggou "be able to"	Modal verbs
+脚印/n	jiaoyin "footprint"	
+自/p	zi "since"	
+自己/r	ziji "self"	Pronouns
+自然/d	ziran "naturally"	
+至/v	zhi "reach"	
+至今/d	zhijin "till now"	
+致使/v	zhishi "cause"	
+良苦/a	liangku "much effort"	
+艰辛/a	jianxin "difficulty"	
+艰难/a	jiannan "difficult"	
+艺术/n	yishu "art"	
+花/n	hua "flower"	
+花卉/n	huahui "flower"	
+茅盾/nh	Maodun (Name)	
+莱/n	lai 	
+行销/v	xingxiao "sale"	
+被/p	bei (passive)	
+要/vu	yao "want"	Modal verbs
+见于/v	jianyu "be seen"	
+规则/n	guize "rule"	
+觉得/v	juede "feel"	Cognition verbs
+言/v	yan "speak"(literal)	Communication verbs
+认为/v	renwei "consider"	Cognition verbs
+让/p	rang "let"	
+训练/v	xunlian "train"	
+记载/v	jizai "record literally"	
+讲/v	jiang "speak"	Communication verbs
+词/n	ci "word"	
+诗/n	shi "poem"	
+语/n	yu "word"	
+语言/n	yuyan "language"	
+说/v	shuo "say"	Communication verbs
+说法/n	shuofa "statement"	
+请/v	qing "please"	
+读/v	du "read"	
+读书/v	dushu "read book"	
+财/n	cai "wealth"	
+财富/n	caifu "wealth"	
+贤/a	xian "virtuous"	
+货币/n	huobi "currency"	
+走/v	zou "walk"	
+起来/vd	qilai "get up"	
+超过/v	chaoguo "exceed"	
+跟/c	gen "and"	
+转移/v	zhuanyi "transfer"	
+迂/a	yu "fool"	
+近/a	jin "close"	
+还/d	hai "and"	
+这个/r	zhege "this one"	
+这位/r	zhewei "this one"	
+这样/r	zheyang "like this"	
+这次/r	zheci "this time"	
+进步/a	jinbu "progress"	
+进行/v	jinxing "going on"	
+连/p	lian "and even"	
+述/x	shu "narrate" (literal)	communication verbs
+退/v	tui "withdraw"	
+适用/v	shiyong "suit"	
+逆/x	ni "against"	
+透过/v	touguo "see through"	
+道教/n	daojiao "Taoism"	
+遗迹/n	yiji "relics"	
+部/n	bu "section"	
+部属/n	bushu "subordinate"	
+都/d	dou "all"	
+都是/r	doushi "all are"	
+里面/nd	limian "inside"	
+重要/a	zhongyao "important"	Expressions of importance
+重要性/n	zhongyaoxing "importance"	Expressions of importance
+重视/v	zhongshi "attach importance to"	Expressions of importance
+长篇小说/n	changpianxiaoshuo "long novel"	
+问/v	wen "ask"	Communication verbs
+阿姨/n	ayi "aunt"	
+陆小凤/nh	Lu Xiaofeng (Name)	
+难/a	nan "difficult"	
+集/n	ji "collection"	
+非同一般/i	feitongyiban "unusual"	
+非常/d	feichang "very much"	Adverbials expressing degrees
+韵/n	yun "rhyme"	
+页/q	ye "page"	
+领导人/n	lingdaoren "leader"	
+频频/d	pinpin "frequently"	
+题/n	ti "topic"	
+首/n	shou "first"	
+高兴/a	gaoxing "happy"	
+高层/n	gaoceng "high level"	
+高速/a	gaosu "high-speed"	
+魅力/n	meili "charm"	
+鲁迅/nh	Lu Xun(name)	
+黄金/n	huangjin "gold"	
+黑/a	hei "black"	
